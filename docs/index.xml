@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Manjunath Beli</title>
-    <link>https://belibug.github.io/</link>
+    <link>https://belibug.github.io/bugpage/</link>
     <description>Recent content on Manjunath Beli</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://belibug.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://belibug.github.io/bugpage/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
