@@ -1,7 +1,8 @@
-baseURL: "https://hugo-profile.netlify.app"
+baseURL: "https://belibug.github.io"
 languageCode: "en-us"
 title: "Manjunath Beli"
 theme: hugo-profile
+publishDir: "docs"
 
 Paginate: 3
 
