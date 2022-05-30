@@ -1,4 +1,4 @@
-baseURL: "https://belibug.github.io"
+baseURL: "https://belibug.github.io/bugpage/"
 languageCode: "en-us"
 title: "Manjunath Beli"
 theme: hugo-profile
